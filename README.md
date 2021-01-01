@@ -36,7 +36,7 @@ Step 5 :Model Creation and Evaluation:
 # Code Execution Steps:
 * Two python scripts files are present: EDA and Model creation.ipynb and ModelCreation_properCoding_documentation.py.
 * EDA and Model creation.ipynb files has all EDA and Model creation scripts.
-* ModelCreation_properCoding_documentation.py: I followed object oriented programming approach for creating model.For this usecase,    Random Forest gives good accuracy.
+* ModelCreation_properCoding_documentation.py: I have followed object oriented programming approach for creating model.For this usecase,Random Forest gives good accuracy.
 # Note
 * I have kept all the analysis results, approach in the PPT:Detailed_Analysis_result_Sakil.pptx
 # Note 
